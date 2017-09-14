@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Darts</string>
+
+    <string name="is_soft">軟靶</string>
+</resources>
